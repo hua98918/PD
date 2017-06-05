@@ -1,0 +1,134 @@
+-------user1-------foot-----Straight-----
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\Filterdata.csv 3 1 1 1
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\Filterdata.csv 3 1 1 2
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\Filterdata.csv 3 1 1 3
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\Filterdata.csv 3 1 1 4
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\Filterdata.csv 3 1 1 5
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\Filterdata.csv 3 1 1 6
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\Filterdata.csv 3 1 1 7
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\Filterdata.csv 3 1 1 8
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\Filterdata.csv 3 1 1 9
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\Filterdata.csv 3 1 1 10
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\StructureFeature.csv 
+
+
+
+-------user2---   foot---- Straight------
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\Filterdata.csv 2 1 1 1
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial02\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial02\Filterdata.csv 2 1 1 2
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial02\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial02\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial03\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial03\Filterdata.csv 2 1 1 3
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial03\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial03\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial04\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial04\Filterdata.csv 2 1 1 4
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial04\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial04\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial05\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial05\Filterdata.csv 2 1 1 5
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial05\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial05\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial06\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial06\Filterdata.csv 2 1 1 6
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial06\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial06\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial07\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial07\Filterdata.csv 2 1 1 7
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial07\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial07\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial08\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial08\Filterdata.csv 2 1 1 8
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial08\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial08\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial09\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial09\Filterdata.csv 2 1 1 9
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial09\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial09\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial10\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial10\Filterdata.csv 2 1 1 10
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial10\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial10\StructureFeature.csv 
+
+
+-------user3-------------FOOT------------straight----------------
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\Filterdata.csv 3 1 1 1
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial01\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\Filterdata.csv 3 1 1 2
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial02\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\Filterdata.csv 3 1 1 3
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial03\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\Filterdata.csv 3 1 1 4
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial04\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\Filterdata.csv 3 1 1 5
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial05\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\Filterdata.csv 3 1 1 6
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial06\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\Filterdata.csv 3 1 1 7
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial07\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\Filterdata.csv 3 1 1 8
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial08\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\Filterdata.csv 3 1 1 9
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial09\StructureFeature.csv 
+
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\Filterdata.csv 3 1 1 10
+
+c:\Python27\python C:\coding\PD\PD\StructFeature.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\Filterdata.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User03\Foot\Straight\Trial10\StructureFeature.csv 
+
+
+
+
+
+-------user2---------
+c:\Python27\python C:\coding\PD\PD\genButterFilter.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\Filterdata.csv 2 1 1 1
+
+c:\Python27\python C:\coding\PD\PD\plot.py C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\LoggedData_CalInertialAndMag.csv C:\pakinsen\IMU\DataWithTrials\SubjectData\User02\Foot\Straight\Trial01\Filterdata.csv 
